@@ -25,7 +25,6 @@ DSA_Visualizer/
 │   └── GraphVisualizer.cpp
 │
 ├── main.cpp
-├── Makefile (optional)
 └── README.md
 ```
 
